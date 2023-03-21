@@ -1,0 +1,26 @@
+{
+  "22b0982": {
+    "Age": "18",
+    "Branch": "CSE",
+    "imageLink": "https://scontent.fpnq13-4.fna.fbcdn.net/v/t39.30808-6/310302638_10159911415547305_3765174883815101426_n.png?stp=dst-png_p320x320&_nc_cat=106&ccb=1-7&_nc_sid=8024bb&_nc_ohc=yLjeFQ5ITy8AX8kA6TH&_nc_ht=scontent.fpnq13-4.fna&oh=00_AfCvCfZMqNy5E1zOowJTCxWjK7X5-AFuxtwaKVeRKyjkIg&oe=641CD99F",
+    "name": "TecNarayan Brahmachari",
+    "passcode": "22b0982",
+    "sex": "non-binary"
+  },
+  "22b0990": {
+    "Age": "18",
+    "Branch": "CSE",
+    "imageLink": "https://media.licdn.com/dms/image/D4D03AQFmgaGpIm4XdQ/profile-displayphoto-shrink_400_400/0/1678263372896?e=1684972800&v=beta&t=4_Wbzw4oANXOMnOwub8YYjuMP7AXWeaTYw86zAxqEf8",
+    "name": "Yash Jonjale",
+    "passcode": "22b0990",
+    "sex": "Male"
+  },
+  "22b0995": {
+    "Age": "18",
+    "Branch": "CSE",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6T3cTnQRJR1A6yurFqbfoO3g_NpSMGFoiPcXubor6w&s",
+    "name": "Lakshya Gadhwal",
+    "passcode": "22b0995",
+    "sex": "Male"
+  }
+}
