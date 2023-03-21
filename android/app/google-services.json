@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684546770806",
+    "firebase_url": "https://duser-85041-default-rtdb.firebaseio.com",
+    "project_id": "duser-85041",
+    "storage_bucket": "duser-85041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684546770806:android:dc8fea5f19799f4aac5c57",
+        "android_client_info": {
+          "package_name": "com.example.duser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684546770806-hc9jpg9vhvrq56jirguckal5rj7pihlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10ln0Z0k7NEhEFE1kE4EbCEuuSVKyEHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684546770806-hc9jpg9vhvrq56jirguckal5rj7pihlo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684546770806-070pmfrnhjj6fgdb24konkr1mq27mrea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.duser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
