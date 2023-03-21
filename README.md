@@ -10,3 +10,4 @@ Now, replace the lib folder with the lib folder in this repo
 Now, open the project on vscode or android studio
 connect your android phone with ur laptop with the usb cable
 Run it on your platform.
+The rest of the files are for your reference
